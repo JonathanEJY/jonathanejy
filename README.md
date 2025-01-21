@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Began my carrer as a frontend web developer<br>🔭 I’m currently working on becoming a Software Engineer<br>🌱 I’m currently learning advanced data structures<br>👯 I’m looking to collaborate on every kind of projects<br>📫 How to reach me: jonathanyont@gmail.com<br>⚡ Fun fact: My side project is only available in Brazil<br></p>
+<p align="left">✨ Began my carrer as a frontend web developer<br>🔭 I’m currently working on becoming a Software Engineer<br>🌱 I’m currently learning advanced data structures<br>👯 I’m looking to collaborate on every kind of projects<br>📫 How to reach me: jonathanyont@gmail.com<br>⚡ Fun fact: I completed two colleges at the same time.<br></p>
 
 ###
 
