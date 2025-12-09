@@ -11,8 +11,7 @@
 
 <p align="left">
 ✨ Began my career as a frontend web developer<br>
-🔍 Currently improving my skills in full stack development<br>
-🌱 Learning advanced data structures and modern tools<br>
+🔍 Currently in full stack development<br>
 👯 I’m looking to collaborate on all kinds of projects<br>
 📫 How to reach me: jonathanyont@gmail.com<br>
 ⚡ Fun fact: I completed two colleges at the same time.
@@ -21,8 +20,7 @@
 <p align="left">
 🇧🇷<br>
 ✨ Comecei minha carreira como desenvolvedor frontend<br>
-🔍 Atualmente estou aprimorando minhas habilidades em desenvolvimento full stack<br>
-🌱 Estudando estruturas de dados avançadas e ferramentas modernas<br>
+🔍 Atualmente estou em desenvolvimento full stack<br>
 👯 Busco colaborar com todos os tipos de projetos<br>
 📫 Como me contatar: jonathanyont@gmail.com<br>
 ⚡ Curiosidade: Concluí duas faculdades ao mesmo tempo.
@@ -34,6 +32,8 @@
 <h2 align="left">🇧🇷 Tecnologias que uso</h2>
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
