@@ -8,7 +8,7 @@ Desenvolvedor Full Stack com foco em aplicações web utilizando PHP/Laravel, No
 <p align="left">
   <a href="https://www.linkedin.com/in/jonathanyont/">LinkedIn</a> ·
   <a href="mailto:jonathanyont@gmail.com">E-mail</a> ·
-  <a href="https://stockstock-frontend.vercel.app">Projeto em destaque</a>
+  <a href="https://stockstock-blue.vercel.app">Projeto em destaque</a>
 </p>
 
 <h2 align="left">Sobre mim</h2>
