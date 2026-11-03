@@ -2,7 +2,6 @@
 
 <p align="left">
 Desenvolvedor Full Stack com foco em aplicações web utilizando PHP/Laravel, Node.js, React e Next.js.<br>
-🟢 Aberto a oportunidades como Desenvolvedor Júnior (Full Stack, Front-end ou Back-end)
 </p>
 
 <p align="left">
@@ -20,11 +19,6 @@ Desenvolvedor Full Stack com foco em aplicações web utilizando PHP/Laravel, No
 </p>
 
 <h2 align="left">Projetos em destaque</h2>
-<p align="left">
-🔹 <b>Sistema de Gestão de Estoque</b> — controle de produtos, estoque e precificação para um negócio real, com arquitetura multiusuário.<br>
-Stack: PHP/Laravel · Next.js/TypeScript · PostgreSQL · Docker<br>
-🔗 <a href="https://stockstock-frontend.vercel.app">Demo</a>
-</p>
 <p align="left">
 🔹 <b>Laravel Jobs</b> — plataforma para postagem e gestão de vagas de emprego (CRUD completo, autenticação).<br>
 Stack: PHP/Laravel · Blade · PostgreSQL<br>
